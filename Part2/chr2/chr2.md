@@ -1,4 +1,4 @@
-# Python導入
+# ２章　Python導入
 Pythonの基本事項として
 
 - numpy
